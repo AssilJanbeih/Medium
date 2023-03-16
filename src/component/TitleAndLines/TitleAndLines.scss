@@ -1,0 +1,26 @@
+
+.titles-menu {
+  color: blue;
+  text-align: start;
+  margin: 0px !important;
+  font-weight: 800;
+}
+
+.title-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.lines {
+  text-align: start;
+}
+
+.lines > p {
+  font-size: 0.75em;
+  margin: 2px 0px;
+}
+
+.lines > p > a {
+  color: black;
+  text-decoration: none;
+}
